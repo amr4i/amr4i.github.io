@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research on Amrit Singhal</title>
+    <link>amr4i.github.io/tags/research/</link>
+    <description>Recent content in Research on Amrit Singhal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Amrit Singhal</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0530</lastBuildDate>
+    
+	<atom:link href="amr4i.github.io/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Augmented Reality Authoring</title>
+      <link>amr4i.github.io/project/augmented-reality/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0530</pubDate>
+      
+      <guid>amr4i.github.io/project/augmented-reality/</guid>
+      <description>Location This project was done as a research internship at Big Data Experience Lab, Adobe Systems, Bangalore during May &amp;lsquo;18 - Jul &amp;lsquo;18, the summer of my third year.
+Details During the internship, I worked as a Research Intern, among a team of 3 members and in close coordination with multiple research members of technical staff at the company, to accomplish the above-mentioned project. A general area of interest was assigned, and a specific problem statement was chosen in that area after an extensive period of brainstorming.</description>
+    </item>
+    
+    <item>
+      <title>Cross Modal Media Retrieval</title>
+      <link>amr4i.github.io/project/cross-modal-media/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0530</pubDate>
+      
+      <guid>amr4i.github.io/project/cross-modal-media/</guid>
+      <description>Details This project was done as my first undergraduate research project under Prof. Medha Atre, Department of Computer Science and Engineering, IIT Kanpur.
+Abstract This project aims to utilize the the emotional information present in any media to perform cross-modal media retrieval efficiently. We present an implementation to extract this emotion from images as 2-dimensional vectors, and propose two methods to bring this emotion vectors from different medias in the same space, one being a statistical approach, and the other being a learning based approach.</description>
+    </item>
+    
+    <item>
+      <title>Quantum Machine Learning</title>
+      <link>amr4i.github.io/project/quantum-machine-learning/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0530</pubDate>
+      
+      <guid>amr4i.github.io/project/quantum-machine-learning/</guid>
+      <description>Details This project was done as research project in the course CS682: Quantum Computing, in the Fall &amp;lsquo;17 term at IIT Kanpur under Prof. Rajat Mittal, Department of Computer Science and Engineering, IIT Kanpur.
+Abstract The aim of the project is to study two of the most widely used machine learning strategies, namely KNearest Neighbours algorithm and Perceptron Learning algorithm, in a quantum setting, and study the speedups that the quantum modules allow over the classical counterparts.</description>
+    </item>
+    
+    <item>
+      <title>Query Biased Multi-Dcoument Abstractive Summarisation</title>
+      <link>amr4i.github.io/project/query-abs-summary/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0530</pubDate>
+      
+      <guid>amr4i.github.io/project/query-abs-summary/</guid>
+      <description>Details This project was started as part of the course CS657: Information Retrieval, in the Spring &amp;lsquo;18 term at IIT Kanpur under Prof. Arnab Bhattacharya, Department of Computer Science and Engineering, IIT Kanpur. It has been continued beyond the course into my second undergraduate research project, and is still in progress.
+Abstract In this project, we introduced a novel pipeline to implement a query-biased multi-document abstractive summarisation. Traditional information retrieval systems return a ranked list of whole documents as the answer to a query.</description>
+    </item>
+    
+    <item>
+      <title>Reviewer Recommendation for Conference Paper Submissions</title>
+      <link>amr4i.github.io/project/reviewer-recommendation/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0530</pubDate>
+      
+      <guid>amr4i.github.io/project/reviewer-recommendation/</guid>
+      <description>Details This project was done as part of the course CS771: Machine Learning Techniques, in the Fall &amp;lsquo;17 term at IIT Kanpur under Prof. Purushottam Kar, Department of Computer Science and Engineering, IIT Kanpur.
+Abstract The process of reviewer assignment to the papers of a conference is a very challenging and sensitive task. The choice of reviewers for a particular paper plays a crucial role in determining whether the paper is accepted into the conference.</description>
+    </item>
+    
+  </channel>
+</rss>

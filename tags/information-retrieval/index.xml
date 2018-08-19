@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Information-retrieval on Amrit Singhal</title>
+    <link>amr4i.github.io/tags/information-retrieval/</link>
+    <description>Recent content in Information-retrieval on Amrit Singhal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Amrit Singhal</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0530</lastBuildDate>
+    
+	<atom:link href="amr4i.github.io/tags/information-retrieval/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cross Modal Media Retrieval</title>
+      <link>amr4i.github.io/project/cross-modal-media/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0530</pubDate>
+      
+      <guid>amr4i.github.io/project/cross-modal-media/</guid>
+      <description>Details This project was done as my first undergraduate research project under Prof. Medha Atre, Department of Computer Science and Engineering, IIT Kanpur.
+Abstract This project aims to utilize the the emotional information present in any media to perform cross-modal media retrieval efficiently. We present an implementation to extract this emotion from images as 2-dimensional vectors, and propose two methods to bring this emotion vectors from different medias in the same space, one being a statistical approach, and the other being a learning based approach.</description>
+    </item>
+    
+    <item>
+      <title>Query Biased Multi-Dcoument Abstractive Summarisation</title>
+      <link>amr4i.github.io/project/query-abs-summary/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0530</pubDate>
+      
+      <guid>amr4i.github.io/project/query-abs-summary/</guid>
+      <description>Details This project was started as part of the course CS657: Information Retrieval, in the Spring &amp;lsquo;18 term at IIT Kanpur under Prof. Arnab Bhattacharya, Department of Computer Science and Engineering, IIT Kanpur. It has been continued beyond the course into my second undergraduate research project, and is still in progress.
+Abstract In this project, we introduced a novel pipeline to implement a query-biased multi-document abstractive summarisation. Traditional information retrieval systems return a ranked list of whole documents as the answer to a query.</description>
+    </item>
+    
+  </channel>
+</rss>
