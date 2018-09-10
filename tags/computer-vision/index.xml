@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Computer-vision on Amrit Singhal</title>
-    <link>amr4i.github.io/tags/computer-vision/</link>
+    <link>https://amr4i.github.io/tags/computer-vision/</link>
     <description>Recent content in Computer-vision on Amrit Singhal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Amrit Singhal</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0530</lastBuildDate>
     
-	<atom:link href="amr4i.github.io/tags/computer-vision/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://amr4i.github.io/tags/computer-vision/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Cross Modal Media Retrieval</title>
-      <link>amr4i.github.io/project/cross-modal-media/</link>
+      <link>https://amr4i.github.io/project/cross-modal-media/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0530</pubDate>
       
-      <guid>amr4i.github.io/project/cross-modal-media/</guid>
+      <guid>https://amr4i.github.io/project/cross-modal-media/</guid>
       <description>Details This project was done as my first undergraduate research project under Prof. Medha Atre, Department of Computer Science and Engineering, IIT Kanpur.
 Abstract This project aims to utilize the the emotional information present in any media to perform cross-modal media retrieval efficiently. We present an implementation to extract this emotion from images as 2-dimensional vectors, and propose two methods to bring this emotion vectors from different medias in the same space, one being a statistical approach, and the other being a learning based approach.</description>
     </item>

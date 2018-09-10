@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Amrit Singhal on Amrit Singhal</title>
-    <link>amr4i.github.io/</link>
+    <link>https://amr4i.github.io/</link>
     <description>Recent content in Amrit Singhal on Amrit Singhal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,20 +12,20 @@
     
     <item>
       <title>Privacy Policy</title>
-      <link>amr4i.github.io/privacy/</link>
+      <link>https://amr4i.github.io/privacy/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0530</pubDate>
       
-      <guid>amr4i.github.io/privacy/</guid>
+      <guid>https://amr4i.github.io/privacy/</guid>
       <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Augmented Reality Authoring</title>
-      <link>amr4i.github.io/project/augmented-reality/</link>
+      <link>https://amr4i.github.io/project/augmented-reality/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0530</pubDate>
       
-      <guid>amr4i.github.io/project/augmented-reality/</guid>
+      <guid>https://amr4i.github.io/project/augmented-reality/</guid>
       <description>
 
 &lt;h2 id=&#34;location&#34;&gt;Location&lt;/h2&gt;
@@ -44,10 +44,10 @@
     
     <item>
       <title>Cross Modal Media Retrieval</title>
-      <link>amr4i.github.io/project/cross-modal-media/</link>
+      <link>https://amr4i.github.io/project/cross-modal-media/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0530</pubDate>
       
-      <guid>amr4i.github.io/project/cross-modal-media/</guid>
+      <guid>https://amr4i.github.io/project/cross-modal-media/</guid>
       <description>
 
 &lt;h2 id=&#34;details&#34;&gt;Details&lt;/h2&gt;
@@ -69,10 +69,10 @@ The details of our project can be found in the project report &lt;a href=&#34;ht
     
     <item>
       <title>Language Independent Text-to-Emotion Classification</title>
-      <link>amr4i.github.io/project/language-independent-emotion/</link>
+      <link>https://amr4i.github.io/project/language-independent-emotion/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0530</pubDate>
       
-      <guid>amr4i.github.io/project/language-independent-emotion/</guid>
+      <guid>https://amr4i.github.io/project/language-independent-emotion/</guid>
       <description>
 
 &lt;h2 id=&#34;location&#34;&gt;Location&lt;/h2&gt;
@@ -105,10 +105,10 @@ The details of our project can be found in the project report &lt;a href=&#34;ht
     
     <item>
       <title>Machine Learning for large scale logistics platform</title>
-      <link>amr4i.github.io/project/nyo/</link>
+      <link>https://amr4i.github.io/project/nyo/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0530</pubDate>
       
-      <guid>amr4i.github.io/project/nyo/</guid>
+      <guid>https://amr4i.github.io/project/nyo/</guid>
       <description>
 
 &lt;h2 id=&#34;location&#34;&gt;Location&lt;/h2&gt;
@@ -125,10 +125,10 @@ The second task was to implement the &lt;strong&gt;Reverse k-Nearest Neighbour&l
     
     <item>
       <title>Neural Machine Translation for Low Resource Languages</title>
-      <link>amr4i.github.io/project/neural-machine-translation/</link>
+      <link>https://amr4i.github.io/project/neural-machine-translation/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0530</pubDate>
       
-      <guid>amr4i.github.io/project/neural-machine-translation/</guid>
+      <guid>https://amr4i.github.io/project/neural-machine-translation/</guid>
       <description>
 
 &lt;h2 id=&#34;details&#34;&gt;Details&lt;/h2&gt;
@@ -153,10 +153,10 @@ existing representations&lt;/p&gt;
     
     <item>
       <title>Quantum Machine Learning</title>
-      <link>amr4i.github.io/project/quantum-machine-learning/</link>
+      <link>https://amr4i.github.io/project/quantum-machine-learning/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0530</pubDate>
       
-      <guid>amr4i.github.io/project/quantum-machine-learning/</guid>
+      <guid>https://amr4i.github.io/project/quantum-machine-learning/</guid>
       <description>
 
 &lt;h2 id=&#34;details&#34;&gt;Details&lt;/h2&gt;
@@ -187,10 +187,10 @@ counterparts.&lt;/p&gt;
     
     <item>
       <title>Query Biased Multi-Dcoument Abstractive Summarisation</title>
-      <link>amr4i.github.io/project/query-abs-summary/</link>
+      <link>https://amr4i.github.io/project/query-abs-summary/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0530</pubDate>
       
-      <guid>amr4i.github.io/project/query-abs-summary/</guid>
+      <guid>https://amr4i.github.io/project/query-abs-summary/</guid>
       <description>
 
 &lt;h2 id=&#34;details&#34;&gt;Details&lt;/h2&gt;
@@ -217,10 +217,10 @@ summaries for our information need.&lt;/p&gt;
     
     <item>
       <title>Reviewer Recommendation for Conference Paper Submissions</title>
-      <link>amr4i.github.io/project/reviewer-recommendation/</link>
+      <link>https://amr4i.github.io/project/reviewer-recommendation/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0530</pubDate>
       
-      <guid>amr4i.github.io/project/reviewer-recommendation/</guid>
+      <guid>https://amr4i.github.io/project/reviewer-recommendation/</guid>
       <description>
 
 &lt;h2 id=&#34;details&#34;&gt;Details&lt;/h2&gt;

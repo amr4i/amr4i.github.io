@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Theory on Amrit Singhal</title>
-    <link>amr4i.github.io/tags/theory/</link>
+    <link>https://amr4i.github.io/tags/theory/</link>
     <description>Recent content in Theory on Amrit Singhal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Amrit Singhal</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0530</lastBuildDate>
     
-	<atom:link href="amr4i.github.io/tags/theory/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://amr4i.github.io/tags/theory/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Quantum Machine Learning</title>
-      <link>amr4i.github.io/project/quantum-machine-learning/</link>
+      <link>https://amr4i.github.io/project/quantum-machine-learning/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0530</pubDate>
       
-      <guid>amr4i.github.io/project/quantum-machine-learning/</guid>
+      <guid>https://amr4i.github.io/project/quantum-machine-learning/</guid>
       <description>Details This project was done as research project in the course CS682: Quantum Computing, in the Fall &amp;lsquo;17 term at IIT Kanpur under Prof. Rajat Mittal, Department of Computer Science and Engineering, IIT Kanpur.
 Abstract The aim of the project is to study two of the most widely used machine learning strategies, namely KNearest Neighbours algorithm and Perceptron Learning algorithm, in a quantum setting, and study the speedups that the quantum modules allow over the classical counterparts.</description>
     </item>

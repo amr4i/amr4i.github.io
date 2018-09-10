@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Augmented-reality on Amrit Singhal</title>
-    <link>amr4i.github.io/tags/augmented-reality/</link>
+    <link>https://amr4i.github.io/tags/augmented-reality/</link>
     <description>Recent content in Augmented-reality on Amrit Singhal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Amrit Singhal</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0530</lastBuildDate>
     
-	<atom:link href="amr4i.github.io/tags/augmented-reality/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://amr4i.github.io/tags/augmented-reality/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Augmented Reality Authoring</title>
-      <link>amr4i.github.io/project/augmented-reality/</link>
+      <link>https://amr4i.github.io/project/augmented-reality/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0530</pubDate>
       
-      <guid>amr4i.github.io/project/augmented-reality/</guid>
+      <guid>https://amr4i.github.io/project/augmented-reality/</guid>
       <description>Location This project was done as a research internship at Big Data Experience Lab, Adobe Systems, Bangalore during May &amp;lsquo;18 - Jul &amp;lsquo;18, the summer of my third year.
 Details During the internship, I worked as a Research Intern, among a team of 3 members and in close coordination with multiple research members of technical staff at the company, to accomplish the above-mentioned project. A general area of interest was assigned, and a specific problem statement was chosen in that area after an extensive period of brainstorming.</description>
     </item>

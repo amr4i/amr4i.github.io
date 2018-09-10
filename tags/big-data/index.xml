@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Big-data on Amrit Singhal</title>
-    <link>amr4i.github.io/tags/big-data/</link>
+    <link>https://amr4i.github.io/tags/big-data/</link>
     <description>Recent content in Big-data on Amrit Singhal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Amrit Singhal</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0530</lastBuildDate>
     
-	<atom:link href="amr4i.github.io/tags/big-data/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://amr4i.github.io/tags/big-data/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Cross Modal Media Retrieval</title>
-      <link>amr4i.github.io/project/cross-modal-media/</link>
+      <link>https://amr4i.github.io/project/cross-modal-media/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0530</pubDate>
       
-      <guid>amr4i.github.io/project/cross-modal-media/</guid>
+      <guid>https://amr4i.github.io/project/cross-modal-media/</guid>
       <description>Details This project was done as my first undergraduate research project under Prof. Medha Atre, Department of Computer Science and Engineering, IIT Kanpur.
 Abstract This project aims to utilize the the emotional information present in any media to perform cross-modal media retrieval efficiently. We present an implementation to extract this emotion from images as 2-dimensional vectors, and propose two methods to bring this emotion vectors from different medias in the same space, one being a statistical approach, and the other being a learning based approach.</description>
     </item>
     
     <item>
       <title>Language Independent Text-to-Emotion Classification</title>
-      <link>amr4i.github.io/project/language-independent-emotion/</link>
+      <link>https://amr4i.github.io/project/language-independent-emotion/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0530</pubDate>
       
-      <guid>amr4i.github.io/project/language-independent-emotion/</guid>
+      <guid>https://amr4i.github.io/project/language-independent-emotion/</guid>
       <description>Location This project was done as a industrial software internship at Hike Pvt. Ltd., New Delhi, during May &amp;lsquo;17 - Jul &amp;lsquo;17, the summer of my second year.
 Details The project aimed at developing a machine learning model to assign an emotion to any chat message provided as input. This would allow quick sticker recommendations to be based not only the textual reference, but also take into account the emotional state of the user for that message.</description>
     </item>
     
     <item>
       <title>Machine Learning for large scale logistics platform</title>
-      <link>amr4i.github.io/project/nyo/</link>
+      <link>https://amr4i.github.io/project/nyo/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0530</pubDate>
       
-      <guid>amr4i.github.io/project/nyo/</guid>
+      <guid>https://amr4i.github.io/project/nyo/</guid>
       <description>Location This project was done as a remote software development internship at New York Office, IIT Kanpur during May &amp;lsquo;18 - Jul &amp;lsquo;18, the summer of my second year.
 Details The project comprised of completing multiple tasks within the assigned duration of the internship. The first task was to implement the Document Distance problem, to remove the semantically same articles from large collection of articles. This was accomplished by using word vectors and document vectors and implementing the Word Mover’s Distance algorithm to successfully eliminate all similar entries within acceptable error values.</description>
     </item>
     
     <item>
       <title>Query Biased Multi-Dcoument Abstractive Summarisation</title>
-      <link>amr4i.github.io/project/query-abs-summary/</link>
+      <link>https://amr4i.github.io/project/query-abs-summary/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0530</pubDate>
       
-      <guid>amr4i.github.io/project/query-abs-summary/</guid>
+      <guid>https://amr4i.github.io/project/query-abs-summary/</guid>
       <description>Details This project was started as part of the course CS657: Information Retrieval, in the Spring &amp;lsquo;18 term at IIT Kanpur under Prof. Arnab Bhattacharya, Department of Computer Science and Engineering, IIT Kanpur. It has been continued beyond the course into my second undergraduate research project, and is still in progress.
 Abstract In this project, we introduced a novel pipeline to implement a query-biased multi-document abstractive summarisation. Traditional information retrieval systems return a ranked list of whole documents as the answer to a query.</description>
     </item>

@@ -4,7 +4,7 @@
     
     <url>
     
-      <loc>amr4i.github.io/privacy/</loc>
+      <loc>https://amr4i.github.io/privacy/</loc>
       <lastmod>2018-06-28T00:00:00+05:30</lastmod>
     </url>
     
@@ -12,7 +12,7 @@
     
     <url>
     
-      <loc>amr4i.github.io/post/</loc>
+      <loc>https://amr4i.github.io/post/</loc>
       <lastmod>2017-01-01T00:00:00+05:30</lastmod>
     </url>
     
@@ -20,7 +20,7 @@
     
     <url>
     
-      <loc>amr4i.github.io/publication/</loc>
+      <loc>https://amr4i.github.io/publication/</loc>
       <lastmod>2017-01-01T00:00:00+05:30</lastmod>
     </url>
     
@@ -28,7 +28,7 @@
     
     <url>
     
-      <loc>amr4i.github.io/talk/</loc>
+      <loc>https://amr4i.github.io/talk/</loc>
       <lastmod>2017-01-01T00:00:00+05:30</lastmod>
     </url>
     
@@ -36,7 +36,7 @@
     
     <url>
     
-      <loc>amr4i.github.io/project/augmented-reality/</loc>
+      <loc>https://amr4i.github.io/project/augmented-reality/</loc>
       <lastmod>2016-04-27T00:00:00+05:30</lastmod>
     </url>
     
@@ -44,7 +44,7 @@
     
     <url>
     
-      <loc>amr4i.github.io/project/cross-modal-media/</loc>
+      <loc>https://amr4i.github.io/project/cross-modal-media/</loc>
       <lastmod>2016-04-27T00:00:00+05:30</lastmod>
     </url>
     
@@ -52,7 +52,7 @@
     
     <url>
     
-      <loc>amr4i.github.io/project/language-independent-emotion/</loc>
+      <loc>https://amr4i.github.io/project/language-independent-emotion/</loc>
       <lastmod>2016-04-27T00:00:00+05:30</lastmod>
     </url>
     
@@ -60,7 +60,7 @@
     
     <url>
     
-      <loc>amr4i.github.io/project/nyo/</loc>
+      <loc>https://amr4i.github.io/project/nyo/</loc>
       <lastmod>2016-04-27T00:00:00+05:30</lastmod>
     </url>
     
@@ -68,7 +68,7 @@
     
     <url>
     
-      <loc>amr4i.github.io/project/neural-machine-translation/</loc>
+      <loc>https://amr4i.github.io/project/neural-machine-translation/</loc>
       <lastmod>2016-04-27T00:00:00+05:30</lastmod>
     </url>
     
@@ -76,7 +76,7 @@
     
     <url>
     
-      <loc>amr4i.github.io/project/quantum-machine-learning/</loc>
+      <loc>https://amr4i.github.io/project/quantum-machine-learning/</loc>
       <lastmod>2016-04-27T00:00:00+05:30</lastmod>
     </url>
     
@@ -84,7 +84,7 @@
     
     <url>
     
-      <loc>amr4i.github.io/project/query-abs-summary/</loc>
+      <loc>https://amr4i.github.io/project/query-abs-summary/</loc>
       <lastmod>2016-04-27T00:00:00+05:30</lastmod>
     </url>
     
@@ -92,7 +92,7 @@
     
     <url>
     
-      <loc>amr4i.github.io/project/reviewer-recommendation/</loc>
+      <loc>https://amr4i.github.io/project/reviewer-recommendation/</loc>
       <lastmod>2016-04-27T00:00:00+05:30</lastmod>
     </url>
     
@@ -100,7 +100,7 @@
     
     <url>
     
-      <loc>amr4i.github.io/</loc>
+      <loc>https://amr4i.github.io/</loc>
       <lastmod>2017-10-15T00:00:00+05:30</lastmod>
       <priority>0</priority>
     </url>
@@ -109,7 +109,7 @@
     
     <url>
     
-      <loc>amr4i.github.io/tags/augmented-reality/</loc>
+      <loc>https://amr4i.github.io/tags/augmented-reality/</loc>
       <lastmod>2016-04-27T00:00:00+05:30</lastmod>
       <priority>0</priority>
     </url>
@@ -118,7 +118,7 @@
     
     <url>
     
-      <loc>amr4i.github.io/tags/big-data/</loc>
+      <loc>https://amr4i.github.io/tags/big-data/</loc>
       <lastmod>2016-04-27T00:00:00+05:30</lastmod>
       <priority>0</priority>
     </url>
@@ -127,7 +127,7 @@
     
     <url>
     
-      <loc>amr4i.github.io/categories/</loc>
+      <loc>https://amr4i.github.io/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -135,7 +135,7 @@
     
     <url>
     
-      <loc>amr4i.github.io/tags/computer-vision/</loc>
+      <loc>https://amr4i.github.io/tags/computer-vision/</loc>
       <lastmod>2016-04-27T00:00:00+05:30</lastmod>
       <priority>0</priority>
     </url>
@@ -144,7 +144,7 @@
     
     <url>
     
-      <loc>amr4i.github.io/tags/industrial/</loc>
+      <loc>https://amr4i.github.io/tags/industrial/</loc>
       <lastmod>2016-04-27T00:00:00+05:30</lastmod>
       <priority>0</priority>
     </url>
@@ -153,7 +153,7 @@
     
     <url>
     
-      <loc>amr4i.github.io/tags/information-retrieval/</loc>
+      <loc>https://amr4i.github.io/tags/information-retrieval/</loc>
       <lastmod>2016-04-27T00:00:00+05:30</lastmod>
       <priority>0</priority>
     </url>
@@ -162,7 +162,7 @@
     
     <url>
     
-      <loc>amr4i.github.io/tags/machine-learning/</loc>
+      <loc>https://amr4i.github.io/tags/machine-learning/</loc>
       <lastmod>2016-04-27T00:00:00+05:30</lastmod>
       <priority>0</priority>
     </url>
@@ -171,7 +171,7 @@
     
     <url>
     
-      <loc>amr4i.github.io/tags/nlp/</loc>
+      <loc>https://amr4i.github.io/tags/nlp/</loc>
       <lastmod>2016-04-27T00:00:00+05:30</lastmod>
       <priority>0</priority>
     </url>
@@ -180,7 +180,7 @@
     
     <url>
     
-      <loc>amr4i.github.io/project/</loc>
+      <loc>https://amr4i.github.io/project/</loc>
       <lastmod>2016-04-27T00:00:00+05:30</lastmod>
       <priority>0</priority>
     </url>
@@ -189,7 +189,7 @@
     
     <url>
     
-      <loc>amr4i.github.io/publication_types/</loc>
+      <loc>https://amr4i.github.io/publication_types/</loc>
       <priority>0</priority>
     </url>
     
@@ -197,7 +197,7 @@
     
     <url>
     
-      <loc>amr4i.github.io/tags/research/</loc>
+      <loc>https://amr4i.github.io/tags/research/</loc>
       <lastmod>2016-04-27T00:00:00+05:30</lastmod>
       <priority>0</priority>
     </url>
@@ -206,7 +206,7 @@
     
     <url>
     
-      <loc>amr4i.github.io/tags/</loc>
+      <loc>https://amr4i.github.io/tags/</loc>
       <lastmod>2016-04-27T00:00:00+05:30</lastmod>
       <priority>0</priority>
     </url>
@@ -215,7 +215,7 @@
     
     <url>
     
-      <loc>amr4i.github.io/tags/theory/</loc>
+      <loc>https://amr4i.github.io/tags/theory/</loc>
       <lastmod>2016-04-27T00:00:00+05:30</lastmod>
       <priority>0</priority>
     </url>
