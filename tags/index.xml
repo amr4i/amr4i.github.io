@@ -1,94 +1,85 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Amrit Singhal</title>
+    <title>Tags | Amrit Singhal</title>
     <link>https://amr4i.github.io/tags/</link>
-    <description>Recent content in Tags on Amrit Singhal</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018 Amrit Singhal</copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0530</lastBuildDate>
-    
-	<atom:link href="https://amr4i.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Augmented-reality</title>
-      <link>https://amr4i.github.io/tags/augmented-reality/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0530</pubDate>
-      
-      <guid>https://amr4i.github.io/tags/augmented-reality/</guid>
-      <description></description>
-    </item>
+      <atom:link href="https://amr4i.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Amrit Singhal</copyright><lastBuildDate>Tue, 07 Jan 2020 00:00:00 -0500</lastBuildDate>
+    <image>
+      <url>https://amr4i.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Tags</title>
+      <link>https://amr4i.github.io/tags/</link>
+    </image>
     
     <item>
-      <title>Big-data</title>
-      <link>https://amr4i.github.io/tags/big-data/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0530</pubDate>
-      
-      <guid>https://amr4i.github.io/tags/big-data/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Computer-vision</title>
-      <link>https://amr4i.github.io/tags/computer-vision/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0530</pubDate>
-      
-      <guid>https://amr4i.github.io/tags/computer-vision/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Industrial</title>
-      <link>https://amr4i.github.io/tags/industrial/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0530</pubDate>
-      
-      <guid>https://amr4i.github.io/tags/industrial/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Information-retrieval</title>
-      <link>https://amr4i.github.io/tags/information-retrieval/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0530</pubDate>
-      
-      <guid>https://amr4i.github.io/tags/information-retrieval/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Machine-learning</title>
+      <title>machine-learning</title>
       <link>https://amr4i.github.io/tags/machine-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0530</pubDate>
-      
+      <pubDate>Tue, 07 Jan 2020 00:00:00 -0500</pubDate>
       <guid>https://amr4i.github.io/tags/machine-learning/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Nlp</title>
-      <link>https://amr4i.github.io/tags/nlp/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0530</pubDate>
-      
-      <guid>https://amr4i.github.io/tags/nlp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Research</title>
+      <title>research</title>
       <link>https://amr4i.github.io/tags/research/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0530</pubDate>
-      
+      <pubDate>Tue, 07 Jan 2020 00:00:00 -0500</pubDate>
       <guid>https://amr4i.github.io/tags/research/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Theory</title>
+      <title>big-data</title>
+      <link>https://amr4i.github.io/tags/big-data/</link>
+      <pubDate>Thu, 27 Dec 2018 00:00:00 -0500</pubDate>
+      <guid>https://amr4i.github.io/tags/big-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>information-retrieval</title>
+      <link>https://amr4i.github.io/tags/information-retrieval/</link>
+      <pubDate>Thu, 27 Dec 2018 00:00:00 -0500</pubDate>
+      <guid>https://amr4i.github.io/tags/information-retrieval/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nlp</title>
+      <link>https://amr4i.github.io/tags/nlp/</link>
+      <pubDate>Thu, 27 Dec 2018 00:00:00 -0500</pubDate>
+      <guid>https://amr4i.github.io/tags/nlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>augmented-reality</title>
+      <link>https://amr4i.github.io/tags/augmented-reality/</link>
+      <pubDate>Fri, 27 Jul 2018 00:00:00 -0400</pubDate>
+      <guid>https://amr4i.github.io/tags/augmented-reality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>industrial</title>
+      <link>https://amr4i.github.io/tags/industrial/</link>
+      <pubDate>Fri, 27 Jul 2018 00:00:00 -0400</pubDate>
+      <guid>https://amr4i.github.io/tags/industrial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>computer-vision</title>
+      <link>https://amr4i.github.io/tags/computer-vision/</link>
+      <pubDate>Sun, 27 May 2018 00:00:00 -0400</pubDate>
+      <guid>https://amr4i.github.io/tags/computer-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>theory</title>
       <link>https://amr4i.github.io/tags/theory/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0530</pubDate>
-      
+      <pubDate>Mon, 27 Nov 2017 00:00:00 -0500</pubDate>
       <guid>https://amr4i.github.io/tags/theory/</guid>
       <description></description>
     </item>
